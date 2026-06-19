@@ -3,7 +3,7 @@
 > **Bahasa / Language:** Indonesia 🇮🇩 | English 🇬🇧  
 > **Status:** 📝 Idea Stage  
 > **Platform:** 📱 Mobile First (Android & iOS)  
-> **Last Updated:** June 2025
+> **Last Updated:** June 2026
 
 ---
 
